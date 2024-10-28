@@ -34,7 +34,7 @@ Here’s a breakdown of the key plugins included:
 ```
   4. Enjoy your new, optimized Neovim setup!
 
-##🌠 Future Plans
-###I'm continuously working on improving this setup, experimenting with new plugins, and fine-tuning settings to ensure the best development experience. Feel free to fork this configuration, and if you have suggestions or improvements, I welcome your contributions!
+## 🌠 Future Plans
+### I'm continuously working on improving this setup, experimenting with new plugins, and fine-tuning settings to ensure the best development experience. Feel free to fork this configuration, and if you have suggestions or improvements, I welcome your contributions!
 
-##Give this Neovim setup a try and take your productivity to the next level! ✨
+## Give this Neovim setup a try and take your productivity to the next level! ✨
